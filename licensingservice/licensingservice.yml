@@ -1,2 +1,3 @@
 tier: local
-example.property: "Default property"
+example.property: "{cipher}bbc402f9838783e3fe05e365a171d1d29eb4f41364d2688c8ddd5bde505b344f5c2e28cfb2ecd97b392b75ec07d0503b"
+

@@ -1,2 +1,3 @@
 tier: dev
-example.property: "Dev property"
+example.property: "{cipher}872eef30c99cd111d4e456c47e9346e94ed973b5c5c09793f7bf2dc053b0d7ec"
+

@@ -1,2 +1,3 @@
 tier: prod
-example.property: "Prod property"
+example.property: "{cipher}d05d4c7d7e7c02982e89629df68bb4d98d77af94cdf6ba1a6eeb7c3cff72e746"
+
